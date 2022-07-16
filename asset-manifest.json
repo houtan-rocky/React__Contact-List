@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hootan-rocky/react-phonebook/static/css/main.07fda3e9.css",
+    "main.js": "/hootan-rocky/react-phonebook/static/js/main.2672adfd.js",
+    "index.html": "/hootan-rocky/react-phonebook/index.html",
+    "main.07fda3e9.css.map": "/hootan-rocky/react-phonebook/static/css/main.07fda3e9.css.map",
+    "main.2672adfd.js.map": "/hootan-rocky/react-phonebook/static/js/main.2672adfd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07fda3e9.css",
+    "static/js/main.2672adfd.js"
+  ]
+}
