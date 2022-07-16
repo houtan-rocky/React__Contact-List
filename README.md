@@ -3,7 +3,6 @@
 
 
 This is a simple implementation of a crud contacts list app with search,
-
 add, edit and delete.
 
 preview: 
