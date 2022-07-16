@@ -1,4 +1,4 @@
-# React Contacts List App
+# React Contact List App
 
 
 
