@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/hootan-rocky/react-phonebook/static/css/main.07fda3e9.css",
-    "main.js": "/hootan-rocky/react-phonebook/static/js/main.de4b9c1a.js",
-    "index.html": "/hootan-rocky/react-phonebook/index.html",
-    "main.07fda3e9.css.map": "/hootan-rocky/react-phonebook/static/css/main.07fda3e9.css.map",
-    "main.de4b9c1a.js.map": "/hootan-rocky/react-phonebook/static/js/main.de4b9c1a.js.map"
+    "main.css": "/react-phonebook/static/css/main.07fda3e9.css",
+    "main.js": "/react-phonebook/static/js/main.de4b9c1a.js",
+    "index.html": "/react-phonebook/index.html",
+    "main.07fda3e9.css.map": "/react-phonebook/static/css/main.07fda3e9.css.map",
+    "main.de4b9c1a.js.map": "/react-phonebook/static/js/main.de4b9c1a.js.map"
   },
   "entrypoints": [
     "static/css/main.07fda3e9.css",
