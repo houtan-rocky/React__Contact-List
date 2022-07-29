@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/React-Pages__Contacts-List/static/css/main.3df09638.css",
-    "main.js": "/React-Pages__Contacts-List/static/js/main.8a0bf089.js",
-    "index.html": "/React-Pages__Contacts-List/index.html",
-    "main.3df09638.css.map": "/React-Pages__Contacts-List/static/css/main.3df09638.css.map",
-    "main.8a0bf089.js.map": "/React-Pages__Contacts-List/static/js/main.8a0bf089.js.map"
+    "main.css": "/React__Contact-List/static/css/main.3df09638.css",
+    "main.js": "/React__Contact-List/static/js/main.8a0bf089.js",
+    "index.html": "/React__Contact-List/index.html",
+    "main.3df09638.css.map": "/React__Contact-List/static/css/main.3df09638.css.map",
+    "main.8a0bf089.js.map": "/React__Contact-List/static/js/main.8a0bf089.js.map"
   },
   "entrypoints": [
     "static/css/main.3df09638.css",
