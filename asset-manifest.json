@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/Pages-React-Expense-Tracker/static/css/main.a705b7a8.css",
-    "main.js": "/Pages-React-Expense-Tracker/static/js/main.e6dfe2cd.js",
-    "static/js/787.fba8e351.chunk.js": "/Pages-React-Expense-Tracker/static/js/787.fba8e351.chunk.js",
-    "index.html": "/Pages-React-Expense-Tracker/index.html",
-    "main.a705b7a8.css.map": "/Pages-React-Expense-Tracker/static/css/main.a705b7a8.css.map",
-    "main.e6dfe2cd.js.map": "/Pages-React-Expense-Tracker/static/js/main.e6dfe2cd.js.map",
-    "787.fba8e351.chunk.js.map": "/Pages-React-Expense-Tracker/static/js/787.fba8e351.chunk.js.map"
+    "main.css": "/React-Pages__Contacts-List/static/css/main.3df09638.css",
+    "main.js": "/React-Pages__Contacts-List/static/js/main.8a0bf089.js",
+    "index.html": "/React-Pages__Contacts-List/index.html",
+    "main.3df09638.css.map": "/React-Pages__Contacts-List/static/css/main.3df09638.css.map",
+    "main.8a0bf089.js.map": "/React-Pages__Contacts-List/static/js/main.8a0bf089.js.map"
   },
   "entrypoints": [
-    "static/css/main.a705b7a8.css",
-    "static/js/main.e6dfe2cd.js"
+    "static/css/main.3df09638.css",
+    "static/js/main.8a0bf089.js"
   ]
 }
