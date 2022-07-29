@@ -1,6 +1,6 @@
 {
-  "short_name": "React Phonebook",
-  "name": "React Phonebook made by Hootan Rocky",
+  "short_name": "React Expense Tracker",
+  "name": "React Simple Expense Tracker",
   "icons": [
     {
       "src": "favicon.ico",
@@ -18,7 +18,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "./",
+  "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"

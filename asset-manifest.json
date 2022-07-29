@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/react-phonebook/static/css/main.3df09638.css",
-    "main.js": "/react-phonebook/static/js/main.fc220033.js",
-    "index.html": "/react-phonebook/index.html",
-    "main.3df09638.css.map": "/react-phonebook/static/css/main.3df09638.css.map",
-    "main.fc220033.js.map": "/react-phonebook/static/js/main.fc220033.js.map"
+    "main.css": "/Pages-React-Expense-Tracker/static/css/main.a705b7a8.css",
+    "main.js": "/Pages-React-Expense-Tracker/static/js/main.e6dfe2cd.js",
+    "static/js/787.fba8e351.chunk.js": "/Pages-React-Expense-Tracker/static/js/787.fba8e351.chunk.js",
+    "index.html": "/Pages-React-Expense-Tracker/index.html",
+    "main.a705b7a8.css.map": "/Pages-React-Expense-Tracker/static/css/main.a705b7a8.css.map",
+    "main.e6dfe2cd.js.map": "/Pages-React-Expense-Tracker/static/js/main.e6dfe2cd.js.map",
+    "787.fba8e351.chunk.js.map": "/Pages-React-Expense-Tracker/static/js/787.fba8e351.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3df09638.css",
-    "static/js/main.fc220033.js"
+    "static/css/main.a705b7a8.css",
+    "static/js/main.e6dfe2cd.js"
   ]
 }
